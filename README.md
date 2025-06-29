@@ -1,6 +1,6 @@
 # Pemrograman Jaringan - Tugas 2: Concurrent Time Server
 
-Repositori ini berisi implementasi untuk Tugas 2 dari mata kuliah Pemrograman Jaringan. Proyek ini berfokus pada pembuatan sebuah server waktu (Time Server) yang mampu menangani beberapa koneksi client secara bersamaan (konkuren) menggunakan multithreading.
+Repositori ini berisi implementasi untuk Tugas 2 dari mata kuliah Pemrograman Jaringan. Tugas ini berfokus pada pembuatan sebuah server waktu (Time Server) yang mampu menangani beberapa koneksi client secara bersamaan (konkuren) menggunakan multithreading.
 
 ## Deskripsi Tugas
 
